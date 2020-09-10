@@ -2,7 +2,7 @@
     font-family: PT serif;
   }
   body {
-    background-color: aqua;
+    background-image: linear-gradient(#d7d7da, #eaeaff, #ffffff);
   }
   .button {
     display: flex;
@@ -42,3 +42,4 @@
   .card-title {
     font-weight: bold;
   }
+  
