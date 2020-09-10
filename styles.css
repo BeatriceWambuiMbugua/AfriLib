@@ -19,5 +19,7 @@ header p{
 .fiction{
     padding-top: 20px;
 }
-
+.card{
+    word-wrap: break-word;
+}
 
