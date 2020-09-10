@@ -1,4 +1,4 @@
-#AFRILIB
+## AFRILIB
 #### Book Application, &copy2020 Afrilib)
 #### By **Millicent, Beatrice, Ann, Marcellus and Dennis**
 ## Description
@@ -29,7 +29,7 @@ google fonts
 
 *Marcellus Githua -information and slides 
 
-*Dennis Kiambi-Figma 
+*Dennis Kiambi-Figma and Mailchimp
 
 # Project screenshot
 ![alt Afri-lib](images/screenshot.png)
