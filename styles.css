@@ -42,4 +42,7 @@
   .card-title {
     font-weight: bold;
   }
-  
+  #mc_embed_signup{
+    margin: auto;
+    width: 60%;
+  }
